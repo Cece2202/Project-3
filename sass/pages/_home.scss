@@ -7,7 +7,6 @@ header {
         height: 33px;
     }
 }
-
 .loader {
     display: flex;
     justify-content: center;
@@ -171,11 +170,12 @@ header {
         color: black;
     }
 
-    .restaurant-cards{
+    .restaurant-cards {
         display: flex;
         flex-direction: column;
         align-items: center;
     }
+
     .restaurant-card {
         display: flex;
         flex-direction: column;
@@ -435,7 +435,7 @@ footer {
         }
 
         .like-button {
-           
+
             &-full {
                 opacity: 0;
                 transition: opacity 300ms;
