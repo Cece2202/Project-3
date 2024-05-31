@@ -378,7 +378,7 @@ footer {
         flex-direction: column;
         flex-wrap: wrap;
         gap: 30px;
-        width: 100%;
+        width: -webkit-fill-available;
 
         h2 {
             font-size: 30px;
