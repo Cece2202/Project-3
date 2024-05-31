@@ -672,6 +672,7 @@ footer img {
     border-radius: 25px;
     position: relative;
     overflow: hidden;
+    max-width: 600px;
     text-decoration: none;
   }
   .restaurants .restaurant-card img {
