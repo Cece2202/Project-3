@@ -656,7 +656,7 @@ footer img {
     flex-wrap: wrap;
     align-content: space-between;
     justify-content: center;
-    align-items: stretch;
+    align-items: center;
     gap: 20px;
     width: 100%;
   }
@@ -672,7 +672,6 @@ footer img {
     border-radius: 25px;
     position: relative;
     overflow: hidden;
-    max-width: 375px;
     text-decoration: none;
   }
   .restaurants .restaurant-card img {
