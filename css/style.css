@@ -566,6 +566,15 @@ footer img {
   margin-top: 1em;
 }
 
+@media all and (min-width: 500px) and (max-width: 700px) {
+  .restaurants h2 {
+    font-size: 30px;
+    color: black;
+    margin: 25px 0;
+    display: flex;
+    justify-content: center;
+  }
+}
 @media all and (min-width: 992px) {
   .location {
     display: flex;
